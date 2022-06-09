@@ -1,0 +1,37 @@
+# Environments
+.venv
+venv/
+src/.env
+.env
+venv
+
+
+# Cash
+__pycache__/
+/__pycache__/
+
+#IDE
+.idea/
+.vscode/
+logs
+media
+
+# deploy
+.gitmodules
+
+# byte-compiled
+*.py[cod]
+*$py.class
+.pytest_cache
+
+# mypy
+.mypy_cache/
+
+# C extensions
+*.so
+
+# coverage file
+src/.coverage
+
+
+
